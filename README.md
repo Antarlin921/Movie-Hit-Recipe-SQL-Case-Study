@@ -7,8 +7,7 @@ Objectives:
 •	Understand audience demographics and preferences.
 •	Compare RSVP Movies' performance with competitors.
 
-Process:
-
+Process: 
 •	Analyzed movie genre distribution and revenue trends.
 •	Investigated audience demographics and ratings.
 •	Compared RSVP Movies' performance metrics with industry benchmarks.
