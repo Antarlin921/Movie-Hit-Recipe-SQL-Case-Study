@@ -5,16 +5,18 @@ Objectives:
 •	Identify factors influencing movie success.
 •	Understand audience demographics and preferences.
 •	Compare RSVP Movies' performance with competitors.
+
 Process:
 •	Analyzed movie genre distribution and revenue trends.
 •	Investigated audience demographics and ratings.
 •	Compared RSVP Movies' performance metrics with industry benchmarks.
+
 Output:
 •	Insights into popular movie genres and revenue sources.
 •	Understanding of audience preferences and behavior.
 •	Performance comparison with competitors.
+
 Impact:
 •	Informed decision-making for upcoming global audience project.
 •	Strategic planning based on data-driven insights.
 •	Competitive advantage in the film industry.
-
