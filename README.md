@@ -17,7 +17,7 @@ Output:
 2.	Understanding of audience preferences and behavior.
 3.	Performance comparison with competitors.
    
-Possible Impact:
+Impact:
 1.	Informed decision-making for upcoming global audience project.
 2.	Strategic planning based on data-driven insights.
 3.	Competitive advantage in the film industry.
